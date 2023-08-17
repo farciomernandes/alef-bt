@@ -25,6 +25,10 @@
     width: 100%;
 }
 
+.btn a {
+    color: white;
+}
+
 .main-title{
    display: flex;
    flex-direction: column;
