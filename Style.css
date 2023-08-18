@@ -51,7 +51,6 @@
 .main-title h2{
     color: #FE002D;
     font-size: 50px;
-    font-family: "Hanuman";
     font-weight: bold;
     letter-spacing: 2px;
     font-family: 'Bebas Neue', sans-serif;
@@ -77,9 +76,10 @@
     font-family:"Inter" ;
     cursor: pointer;
     transition-duration: .9s;
-   
 }
-
+.frase{
+    color: #FE002D !important;
+}
 .main-title button:hover{
     border: solid 1px #fff;
     transition: 0.7s;
